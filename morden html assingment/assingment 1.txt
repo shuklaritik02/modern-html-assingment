@@ -1,0 +1,12 @@
+1.list out the features of html5?
+
+solution 
+1.Semantic Elements: HTML5 introduced a set of semantic elements like <header>, <footer>, <nav>, <article>, and <section>. These elements improve the structure and semantics of web documents, making content more meaningful for search engines and assistive technologies while aiding in better page layout and styling.
+
+2.Audio and Video Support: Native support for embedding audio and video using the <audio> and <video> elements has greatly improved multimedia integration on the web. This feature reduced the reliance on third-party plugins like Flash and improved the user experience.
+
+3.Canvas: The <canvas> element allows for dynamic rendering of graphics and animations using JavaScript. This feature is crucial for web applications that require real-time graphical rendering, interactive games, data visualization, and more.
+
+4.Local Storage: HTML5 introduced the localStorage and sessionStorage APIs, enabling web applications to store data locally on the user's device. This feature improves offline capabilities, application speed, and responsiveness by reducing the need for frequent server requests.
+
+5.Responsive Design and Media Queries: HTML5 brought media queries and responsive design techniques into the mainstream. Media queries allow web developers to create designs that adapt to various screen sizes and devices, making websites more accessible and user-friendly on both desktop and mobile platforms.
